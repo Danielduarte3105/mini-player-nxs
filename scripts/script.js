@@ -129,6 +129,14 @@ new Vue({
           url: "https://youtu.be/yzTuBuRdAyA?si=MCFGnjLUxmqb7LN5",
           favorited: false
         },
+        {
+          name: "Florence & The Machine",
+          artist: "Dog Days Are Over",
+          cover: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/img/12.jpg",
+          source: "https://raw.githubusercontent.com/Danielduarte3105/mini-player-nxs/master/mp3/16.mp3",
+          url: "https://www.youtube.com/watch?v=iWOyfLBYtuU&list=RDMoN9ql6Yymw&index=24",
+          favorited: false
+        },
       ],
       currentTrack: null,
       currentTrackIndex: 0,
