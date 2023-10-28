@@ -137,6 +137,14 @@ new Vue({
           url: "https://www.youtube.com/watch?v=iWOyfLBYtuU&list=RDMoN9ql6Yymw&index=24",
           favorited: false
         },
+        {
+          name: "Bruno Mars",
+          artist: "When I Was Your Man",
+          cover: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/img/14.jpg",
+          source: "https://raw.githubusercontent.com/Danielduarte3105/mini-player-nxs/master/mp3/17.mp3",
+          url: "https://www.youtube.com/watch?v=ekzHIouo8Q4&list=RDMoN9ql6Yymw&index=23",
+          favorited: false
+        },
       ],
       currentTrack: null,
       currentTrackIndex: 0,
