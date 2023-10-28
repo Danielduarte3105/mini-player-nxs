@@ -85,7 +85,7 @@ new Vue({
           name: "Careless Whisper",
           artist: "George Michael",
           cover: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/img/3.jpg",
-          source: "https://github.com/Danielduarte3105/mini-player-nxs/blob/master/mp3/10.mp3",
+          source: "https://raw.githubusercontent.com/Danielduarte3105/mini-player-nxs/blob/master/mp3/10.mp3",
           url: "https://www.youtube.com/watch?v=L3wKzyIN1yk",
           favorited: false
         }
