@@ -121,6 +121,14 @@ new Vue({
           url: "https://www.youtube.com/watch?v=uuZE_IRwLNI&list=RDMoN9ql6Yymw&index=3",
           favorited: true
         },
+        {
+          name: "The Weeknd",
+          artist: "The Hills",
+          cover: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/img/11.jpg",
+          source: "https://raw.githubusercontent.com/Danielduarte3105/mini-player-nxs/master/mp3/15.mp3",
+          url: "https://youtu.be/yzTuBuRdAyA?si=MCFGnjLUxmqb7LN5",
+          favorited: false
+        },
       ],
       currentTrack: null,
       currentTrackIndex: 0,
