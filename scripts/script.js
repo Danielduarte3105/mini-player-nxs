@@ -93,7 +93,7 @@ new Vue({
           name: "DJ GBR",
           artist: "Let´s Go 4",
           cover: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/img/21.jpg",
-          source: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/mp3/11.mp3",
+          source: "https://raw.githubusercontent.com/Danielduarte3105/mini-player-nxs/master/mp3/11.mp3",
           url: "https://www.youtube.com/watch?v=zG5gWncAhls",
           favorited: false
         },
