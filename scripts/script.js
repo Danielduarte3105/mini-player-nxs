@@ -97,6 +97,14 @@ new Vue({
           url: "https://www.youtube.com/watch?v=zG5gWncAhls",
           favorited: false
         },
+        {
+          name: "Sam Smith",
+          artist: "UnHoly",
+          cover: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/img/13.jpg",
+          source: "https://raw.githubusercontent.com/Danielduarte3105/mini-player-nxs/master/mp3/12.mp3",
+          url: "https://www.youtube.com/watch?v=7QXDnWRy6MI",
+          favorited: false
+        },
       ],
       currentTrack: null,
       currentTrackIndex: 0,
