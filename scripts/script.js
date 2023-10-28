@@ -145,6 +145,14 @@ new Vue({
           url: "https://www.youtube.com/watch?v=ekzHIouo8Q4&list=RDMoN9ql6Yymw&index=23",
           favorited: false
         },
+        {
+          name: "Billie Eilish",
+          artist: "When The Party's Over ",
+          cover: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/img/15.jpg",
+          source: "https://raw.githubusercontent.com/Danielduarte3105/mini-player-nxs/master/mp3/18.mp3",
+          url: "https://www.youtube.com/watch?v=pbMwTqkKSps&list=RDMoN9ql6Yymw&index=27",
+          favorited: false
+        },
       ],
       currentTrack: null,
       currentTrackIndex: 0,
