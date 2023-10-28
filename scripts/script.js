@@ -105,6 +105,7 @@ new Vue({
           url: "https://www.youtube.com/watch?v=7QXDnWRy6MI",
           favorited: false
         },
+        {
           name: "David Kushner",
           artist: "Daylight",
           cover: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/img/16.jpg",
