@@ -23,7 +23,7 @@ new Vue({
           cover: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/img/2.jpg",
           source: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/mp3/2.mp3",
           url: "https://www.youtube.com/watch?v=Lin-a2lTelg",
-          favorited: true
+          favorited: false
         },
         {
           name: "Extreme Ways",
@@ -47,7 +47,7 @@ new Vue({
           cover: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/img/5.jpg",
           source: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/mp3/5.mp3",
           url: "https://www.youtube.com/watch?v=0WlpALnQdN8",
-          favorited: true
+          favorited: false
         },
         {
           name: "Genius ft. Sia, Diplo, Labrinth",
@@ -63,7 +63,7 @@ new Vue({
           cover: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/img/7.jpg",
           source: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/mp3/7.mp3",
           url: "https://www.youtube.com/watch?v=me6aoX0wCV8",
-          favorited: true
+          favorited: false
         },
         {
           name: "Overdose",
@@ -84,9 +84,9 @@ new Vue({
         {
           name: "Careless Whisper",
           artist: "George Michael",
-          cover: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/img/3.jpg",
+          cover: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/img/19.jpg",
           source: "https://raw.githubusercontent.com/Danielduarte3105/mini-player-nxs/master/mp3/10.mp3",
-          url: "https://www.youtube.com/watch?v=L3wKzyIN1yk",
+          url: "https://www.youtube.com/watch?v=izGwDsrQ1eQ",
           favorited: false
         }
       ],
