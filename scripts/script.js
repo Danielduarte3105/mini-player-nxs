@@ -113,6 +113,14 @@ new Vue({
           url: "https://www.youtube.com/watch?v=MoN9ql6Yymw",
           favorited: true
         },
+          {
+          name: "Justin Timberlake",
+          artist: "Mirrors",
+          cover: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/img/18.jpg",
+          source: "https://raw.githubusercontent.com/Danielduarte3105/mini-player-nxs/master/mp3/14.mp3",
+          url: "https://www.youtube.com/watch?v=uuZE_IRwLNI&list=RDMoN9ql6Yymw&index=3",
+          favorited: true
+        },
       ],
       currentTrack: null,
       currentTrackIndex: 0,
