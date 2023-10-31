@@ -52,7 +52,7 @@ new Vue({
         {
           name: "Genius ft. Sia, Diplo, Labrinth",
           artist: "LSD",
-          cover: "https://raw.githubusercontent.com/Danielduarte3105/mini-player-nxs/master/img/6.jpg",
+          cover: "https://raw.githubusercontent.com/Danielduarte3105/mini-player-nxs/master/img/6.png",
           source: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/mp3/6.mp3",
           url: "https://www.youtube.com/watch?v=HhoATZ1Imtw",
           favorited: false
