@@ -84,7 +84,7 @@ new Vue({
         {
           name: "Careless Whisper",
           artist: "George Michael",
-          cover: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/img/19.jpg",
+          cover: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/img/10.jpg",
           source: "https://raw.githubusercontent.com/Danielduarte3105/mini-player-nxs/master/mp3/10.mp3",
           url: "https://www.youtube.com/watch?v=izGwDsrQ1eQ",
           favorited: false
@@ -92,7 +92,7 @@ new Vue({
         {
           name: "DJ GBR",
           artist: "Let´s Go 4",
-          cover: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/img/21.jpg",
+          cover: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/img/11.jpg",
           source: "https://raw.githubusercontent.com/Danielduarte3105/mini-player-nxs/master/mp3/11.mp3",
           url: "https://www.youtube.com/watch?v=zG5gWncAhls",
           favorited: false
@@ -100,7 +100,7 @@ new Vue({
         {
           name: "Sam Smith",
           artist: "UnHoly",
-          cover: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/img/13.jpg",
+          cover: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/img/12.jpg",
           source: "https://raw.githubusercontent.com/Danielduarte3105/mini-player-nxs/master/mp3/12.mp3",
           url: "https://www.youtube.com/watch?v=7QXDnWRy6MI",
           favorited: false
@@ -108,7 +108,7 @@ new Vue({
         {
           name: "David Kushner",
           artist: "Daylight",
-          cover: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/img/16.jpg",
+          cover: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/img/13.jpg",
           source: "https://raw.githubusercontent.com/Danielduarte3105/mini-player-nxs/master/mp3/13.mp3",
           url: "https://www.youtube.com/watch?v=MoN9ql6Yymw",
           favorited: true
@@ -116,7 +116,7 @@ new Vue({
           {
           name: "Justin Timberlake",
           artist: "Mirrors",
-          cover: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/img/18.jpg",
+          cover: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/img/14.jpg",
           source: "https://raw.githubusercontent.com/Danielduarte3105/mini-player-nxs/master/mp3/14.mp3",
           url: "https://www.youtube.com/watch?v=uuZE_IRwLNI&list=RDMoN9ql6Yymw&index=3",
           favorited: true
@@ -124,7 +124,7 @@ new Vue({
         {
           name: "The Weeknd",
           artist: "The Hills",
-          cover: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/img/11.jpg",
+          cover: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/img/15.jpg",
           source: "https://raw.githubusercontent.com/Danielduarte3105/mini-player-nxs/master/mp3/15.mp3",
           url: "https://youtu.be/yzTuBuRdAyA?si=MCFGnjLUxmqb7LN5",
           favorited: false
@@ -132,7 +132,7 @@ new Vue({
         {
           name: "Florence & The Machine",
           artist: "Dog Days Are Over",
-          cover: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/img/12.jpg",
+          cover: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/img/16.jpg",
           source: "https://raw.githubusercontent.com/Danielduarte3105/mini-player-nxs/master/mp3/16.mp3",
           url: "https://www.youtube.com/watch?v=iWOyfLBYtuU&list=RDMoN9ql6Yymw&index=24",
           favorited: false
@@ -140,7 +140,7 @@ new Vue({
         {
           name: "Bruno Mars",
           artist: "When I Was Your Man",
-          cover: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/img/14.jpg",
+          cover: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/img/17.jpg",
           source: "https://raw.githubusercontent.com/Danielduarte3105/mini-player-nxs/master/mp3/17.mp3",
           url: "https://www.youtube.com/watch?v=ekzHIouo8Q4&list=RDMoN9ql6Yymw&index=23",
           favorited: false
@@ -148,7 +148,7 @@ new Vue({
         {
           name: "Billie Eilish",
           artist: "When The Party's Over ",
-          cover: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/img/15.jpg",
+          cover: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/img/18.jpg",
           source: "https://raw.githubusercontent.com/Danielduarte3105/mini-player-nxs/master/mp3/18.mp3",
           url: "https://www.youtube.com/watch?v=pbMwTqkKSps&list=RDMoN9ql6Yymw&index=27",
           favorited: false
